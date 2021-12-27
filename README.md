@@ -28,7 +28,7 @@ npm run serve
 ## Principle
 It's all in my code  `/src/mini-vue-router`
 
-I'm going to write principle of vue-router in [juejin](https://juejin.cn/user/2867982785579102/posts?sort=popular) .You can follow me ^_^
+I'm going to write principle of vue-router in [juejin](https://juejin.cn/post/7046164117102526494) .You can follow me ^_^
 
 ## License
 
